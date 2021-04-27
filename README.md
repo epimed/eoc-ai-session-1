@@ -34,11 +34,10 @@ Cette vidéo peut vous aider pour l'installation de Python et de ses librairies 
 
 Présentation en visio
 
-## Partie II - Démonstration
- 
-[Notebook](notebook/demo.ipynb)
-[version Markdown](notebook/demo.md)
-[version HTML](notebook/demo.ipynb)
+## Partie II - Démonstration 
+
+- [version Notebook](notebook/demo.ipynb)
+- [version Markdown](notebook/demo.md)
 
 Pour ouvrir un notebook jupyter, taper la commande suivante dans un terminal (Linux/MacOS) ou dans le command prompt (Windows) :
 
