@@ -50,6 +50,7 @@ Pour ouvrir un notebook jupyter, taper la commande suivante dans un terminal (Li
 - [version Notebook](notebook/exo_1.ipynb)
 - [version Markdown](notebook/exo_1.md)
 
-
-
 **Exercice 2**. Régression logistique et SVM
+
+- [version Notebook](notebook/exo_2.ipynb)
+- [version Markdown](notebook/exo_2.md)
