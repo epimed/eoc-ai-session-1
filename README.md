@@ -45,5 +45,11 @@ Pour ouvrir un notebook jupyter, taper la commande suivante dans un terminal (Li
 
 ## Partie III  - TP
 
-Exercice 1. Arbres à décision et Random Forest
-Exercice 2. Régression logistique et SVM
+**Exercice 1**. Arbres à décision et Random Forest
+
+- [version Notebook](notebook/exo_1.ipynb)
+- [version Markdown](notebook/exo_1.md)
+
+
+
+**Exercice 2**. Régression logistique et SVM
